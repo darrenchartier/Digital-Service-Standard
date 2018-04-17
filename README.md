@@ -14,6 +14,7 @@ You can share your thoughts and ideas about the standard by: 
 * [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
 * [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
 * [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
+* [Agile playbook](..\Agile playbook\01. Understanding Agile Project Management.md)
 * [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
   * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
   * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
@@ -151,7 +152,7 @@ In the live stage:
   researched
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
-  
+
 ## 2. Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
@@ -213,8 +214,8 @@ Users should know when they are on an official government website.
 Using standard platforms and designs is a cost-effective way of
 providing public services and makes the most of public resources.
 
-Services delivered online, over the phone or in person should provide a 
-consistent experience for the public. From branding to tone of voice and 
+Services delivered online, over the phone or in person should provide a
+consistent experience for the public. From branding to tone of voice and
 error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
 
 ### How to meet this standard
@@ -487,7 +488,7 @@ At a minimum:
 
 ## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms where available. 
+Use open standards, open source software and common government platforms where available.
 
 Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
 
@@ -740,7 +741,7 @@ before it goes live. When the ministers can understand and are experienced with 
 
 ### How to meet this standard
 
-At a minimum: 
+At a minimum:
 * share your user research with the minister and demonstrate a prototype of the service
 * show the service to the minister(s) responsible for it
 * if it’s a transactional service, have the minister(s) test the end-to-end
