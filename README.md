@@ -14,7 +14,7 @@ You can share your thoughts and ideas about the standard by: 
 * [Ontario.ca style guide](https://www.ontario.ca/page/ontarioca-style-guide)
 * [Service design playbook](https://www.ontario.ca/page/service-design-playbook)
 * [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
-* [Agile playbook](..\Agile playbook\01. Understanding Agile Project Management.md)
+* [Agile playbook](.\Agile playbook\01. Understanding Agile Project Management.md)
 * [Ontario Digital's Medium blog](https://medium.com/ontariodigital)
   * [A new registry, and a new approach](https://medium.com/ontariodigital/a-new-registry-and-a-new-approach-1ebe74a711d3)
   * [Orders In Council, from paper to online product](https://medium.com/ontariodigital/orders-in-council-from-paper-to-online-product-cc4f7afdfc93)
